@@ -13,4 +13,5 @@
               因此此題正確解應為 [1,2]，也就是index 1的2，和index 2的4相加，2 + 4 = 6 =target
               
 參考資料：LeetCode (1) Two Sum (python)
-         https://medium.com/@havbgbg68/leetcode-1-two-sum-python-8d77c223abd3 
+
+https://medium.com/@havbgbg68/leetcode-1-two-sum-python-8d77c223abd3 
