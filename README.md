@@ -1,5 +1,5 @@
 # LeetCode 1. Two Sum  
-解題方法與過程  
+紀錄一下解題方法與過程  
 > 1. 建立一個dict存放nums陣列中所有值，dict會將這些值對上一個index。  
 > 2. 從nums陣列中一一取出，並和target相減，若相減的值出現在dict內，則可以根據此值的index，找出在原本nums陣列中的index。  
 > 3. 取出的值，以及相減後的值所在的index，即為所需要的輸出。  
